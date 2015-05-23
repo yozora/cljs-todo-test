@@ -1,0 +1,4 @@
+.vagrant
+target/
+resources/public/out/
+figwheel_server.log
