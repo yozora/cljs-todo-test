@@ -6,6 +6,7 @@
                  [com.datomic/datomic-free "0.9.5153" :exclusions [joda-time]]
                  [compojure "1.3.2"]
                  [ring/ring-core "1.3.2"]
+                 [ring/ring-json "0.3.1"]
                  [ring/ring-defaults "0.1.4"]
                  [org.clojure/clojurescript "0.0-3178"]
                  [org.omcljs/om "0.8.8"]
